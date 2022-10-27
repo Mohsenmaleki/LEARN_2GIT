@@ -1,0 +1,1 @@
+This is a file to how to get into git fetch & fgit pull
