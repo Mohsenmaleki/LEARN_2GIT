@@ -1,1 +1,2 @@
 Hello  I am the first file
+Just an edit to know how to work withe the modified files in git
